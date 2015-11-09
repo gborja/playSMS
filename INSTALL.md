@@ -1,7 +1,7 @@
 # INSTALL
 
 This document explains about how to install and setup playSMS version **1.3.1**
-The quick brown fox jumps over the lazy dog
+
 
 ## Requirements
 
